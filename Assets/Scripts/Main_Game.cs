@@ -41,9 +41,5 @@ public class Main_Game : MonoBehaviour
             positions_movil.Add(new Vector2(go.transform.position.x, go.transform.position.y));
         }
 
-        public void Cargar()
-        {
-        
-        }
     }
 }
